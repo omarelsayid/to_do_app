@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:to_do_app/data/database.dart';
-import 'package:to_do_app/utilities/dailog_box.dart';
+
 import 'package:to_do_app/utilities/todo_tile.dart';
 import 'package:hive_local_storage/hive_local_storage.dart';
 
